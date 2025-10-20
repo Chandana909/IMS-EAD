@@ -1,0 +1,48 @@
+.inventory-container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.inventory-container h2 {
+  color: #0077b6;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.search-box {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+table th {
+  background-color: #0077b6;
+  color: #fff;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #0096c7;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #00b4d8;
+}

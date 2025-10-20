@@ -1,0 +1,19 @@
+.details-container {
+  max-width: 500px;
+  margin: auto;
+  background-color: #e0f7fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.details-container h2 {
+  text-align: center;
+  color: #0077b6;
+  margin-bottom: 20px;
+}
+
+.details-container p {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
